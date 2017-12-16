@@ -5,7 +5,7 @@ play the classic hot potato, virtually !
 
 -Up to 10 players can play
 
-#How to Play:
+# How to Play:
 
 1) add players one by one seperated by a space
 
